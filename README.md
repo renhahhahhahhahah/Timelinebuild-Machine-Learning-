@@ -1,20 +1,5 @@
-## Timeline Builder
-
-Use Timeline.js to build a timeline! With thanks to the Knight Lab at [NorthWestern University](https://timeline.knightlab.com/).
-
-While you can use a spreadsheet to build your timeline as per the docs, here's a sample of how to build your timeline using JSON.
-
-Run this website locally:
-
-1. Make sure you have Node.js installed.
-2. Fork this repo and place it on your local machine in a folder.
-3. Using the command line, CD (change directory) to the folder: `cd myTimeline`.
-4. Use `http-server` to quickly start up a local server; from your code's folder run `npx http-server`. You should see a timeline of Whitney Houston's amazing and tragic life.
-
-Build your own JSON structures for a new timeline, [following the docs](https://timeline.knightlab.com/docs/json-format.html).
-
-View this example [timeline](https://digital-humanities-toolkit.github.io/timeline-builder/)
-
-![timeline sample](timeline-example.png)
-
-
+References:
+Wikipedia contributors. (2025, August 19). Timeline of machine learning. Wikipedia. https://en.wikipedia.org/wiki/Timeline_of_machine_learning
+Mitchell, A. (2024, September 6). The history of artificial intelligence from the 1950s to today - ExpertBeacon. Expertbeacon. https://expertbeacon.com/the-history-of-artificial-intelligence-from-the-1950s-to-today/
+Fahey, J. (2024, December 17). The Story of AlexNet: A Historical Milestone in Deep Learning. Medium. https://medium.com/@fahey_james/the-story-of-alexnet-a-historical-milestone-in-deep-learning-79878a707dd5
+freeCodeCamp. (2023, April 10). The History of Artificial Intelligence from the 1950s to Today. freeCodeCamp.org. https://www.freecodecamp.org/news/the-history-of-ai/
