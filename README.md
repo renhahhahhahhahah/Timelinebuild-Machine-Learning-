@@ -1,3 +1,6 @@
+Gahuman, Reniel B.
+3IS2
+
 References:
 
 -Wikipedia contributors. (2025, August 19). Timeline of machine learning. Wikipedia. https://en.wikipedia.org/wiki/Timeline_of_machine_learning
