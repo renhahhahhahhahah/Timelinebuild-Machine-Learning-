@@ -1,0 +1,141 @@
+{
+	"title": {
+		"media": {
+			"url": "https://miro.medium.com/1*G6miCRAP9Fxx5ulvT5zUPA.png",
+			"caption": "Machine Learning",
+			"credit": ""
+		},
+		"text": {
+			"headline": "Machine Learning<br/> 1950 - 2020",
+			"text": "<p>Machine learning made significant breakthroughs from the 1950s to the 2000s, shaping the foundation of Artificial Intelligence. These innovations played a crucial role in advancing computational methods and achieving key milestones that continue to empower modern technologies today.</p>"
+		}
+	},
+	"events": [
+		{
+			"media": {
+				"url": "https://tse2.mm.bing.net/th/id/OIP.OdF2Ryx6w9ZdtdNeEnSYewHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+				"caption": "The Dartmouth Conference: Birth of Artificial Intelligence",
+				"credit": "<a href='http://www.flickr.com/photos/11447043@N00/418180903/'></a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'></a>"
+			},
+			"start_date": {
+				"year": "1956"
+			},
+			"text": {
+				"headline": " The Dartmouth Conference",
+				"text": "<p>The first major community gathered to conceptualize the artificial intelligence. Some 10 leading reasearchers including John McCarthy, Marvin Minsky, Claude Shannon and Nathaniel Rochester gathered to establishscope, challenges and approaches in machanizing intelligence.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://quantstartmedia.s3.amazonaws.com/images/article-images/articles/introduction-to-artificial-neural-networks-and-the-perceptron/perceptron.png",
+				"caption": "",
+				"credit": "<a href=\"http://unidiscmusic.com\"></a>"
+			},
+			"start_date": {
+				"year": "1957"
+			},
+			"text": {
+				"headline": "First (Artificial) Neural Network and Perceptron",
+				"text": "Frank Rosenblatt intriduced the percetron algorithm that stablished key principles in modern AI. _Perceptron algorithm is designed for supervised learning,where it classifies input data into one of two categories , such as 1 and 0. The perceptron proved foundation by demonstrating the viability of biologically neural networks."
+			}
+		},
+		{
+			"media": {
+				"url": "https://tse4.mm.bing.net/th/id/OIP.wj4xfO-VBTH7vEo2jPml9gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "1973"
+			},
+			"text": {
+				"headline": "MYCIN: expert system",
+				"text": "One of the historical achievement on the healthcare system and the machine learning is the MYCIN. It is the story of AI in healthcare starts in the early 1970s. Its atributes to its expert system design that utilized a comprehensive set of 'if-then' to emulate the decision making process of an expert human."
+			}
+		},
+		{
+			"media": {
+				"url": "https://www.researchgate.net/profile/Sven-Behnke-2/publication/220688219/figure/fig12/AS:667032446062595@1536044336676/The-Neocognitron-proposed-by-Fukushima-77-Digit-features-of-increasing-complexity.ppm",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "1979"
+			},
+			"text": {
+				"headline": "Neocognitron by Kunihiko Fukushima",
+				"text": "In 1979 Kunihiko Fukushima proposed multilayered artificial neural network. It has been used in japanese hanwritten character recognition  and other pattern recognition tasks, and served as the inspiration for convolutional neural networks."
+			}
+		},
+		{
+			"media": {
+				"url": "https://www.shutterstock.com/image-illustration/artificial-intelligence-deep-machine-learning-260nw-2322921081.jpg",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "1980"
+			},
+			"text": {
+				"headline": "resurgence interest",
+				"text": "Driven by the development of back propaganda algorithm and introduction of neural network the machine learning gets a significant resugrgence in interest my many experts. This period laid ground work for the advancement that followed, including the rise of support vector machine (SVM) and decision tree."
+			}
+		},
+		{
+			"media": {
+				"url": "https://img.freepik.com/premium-vector/big-data-visualization-machine-learning-algorithms-analysis-information-visual-data_274626-66.jpg?w=740",
+				"caption": "",
+				"credit": "Freepik.com"
+			},
+			"start_date": {
+				"year": "2000"
+			},
+			"text": {
+				"headline": "Rise of the big data",
+				"text": "The built of data concepts by integrating big data analytics and cloud computing, allowing companies to store and process vast amount of data without needing on premise infrastracture. This gives a more wider data coverage that contributes in some technological advancements."
+			}
+		},
+		{
+			"media": {
+				"url": "https://miro.medium.com/v2/resize:fit:1200/1*llOI0rit-61rYNVn-bL1jw.jpeg",
+				"caption": "Data Privacy and the Challenge of Reproducibility",
+				"credit": "<a href='http://towarsdatascience.com'></a>"
+			},
+			"start_date": {
+				"year": "2009"
+			},
+			"text": {
+				"headline": "ImageNet",
+				"text": " ImageNet has given researchers a common set of images to benchmark their models and algorithms. In turn, this has driven research in machine learning and deep neural networks, making it easier to classify images and complete other tasks associated with computer vision."
+			}
+		},
+		{
+			"media": {
+				"url": "https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-04/what-is-deep-learning.png",
+				"caption": "",
+				"credit": "builtin.com"
+			},
+			"start_date": {
+				"year": "2010"
+			},
+			"text": {
+				"headline": "deep learning",
+				"text": "The decade saw the wide spread adoptionof deep learning neural network, particularly Convulotional Neural Netwroks (CNNs) and long short-term memory networks (LSTMs). CNNs revolutionized image recognition tasks, while LSTMs excelled in processing sequential data, such as speech and text."
+			}
+		},
+		{
+			"media": {
+				"url": "https://th.bing.com/th/id/R.d1db1616e734a4399c0261c9521ef0aa?rik=4RQ3DNSemlebIQ&riu=http%3a%2f%2fmedia5.datahacker.rs%2f2018%2f11%2falexnet_ispravljeno.png&ehk=mFQ5%2b73rHncyCuXz9dsBlQvf91HAVoiv9FqSJiSp0D4%3d&risl=&pid=ImgRaw&r=0",
+				"caption": "",
+				"credit": "AlexNet"
+			},
+			"start_date": {
+				"year": "2012"
+			},
+			"text": {
+				"headline": "Alexnet",
+				"text": "Developed by Alex Krizhevsky, Ilya Sutskever an their advisor Goffrey Hinton, AlexNet revolutionized the field of computer vision and deep learning marking a turning point in artificial intelligence. AlexNet Success demonstrated the power of deep learning and sparked a surge of interest in AI applications."
+			}
+		}
+	]
+}
